@@ -15,7 +15,7 @@ I'm a cybersecurity enthusiast focused on **penetration testing** 🎯 — activ
 
 | Room | Category | Difficulty | Writeup |
 |------|----------|------------|---------|
-| 🥶 Brr | OT / ICS (SCADA, Modbus) | 🟢 Easy | [Read Writeup](./TryHackMe-Brr-Writeup.md) |
+| 🥶 Brr | OT / ICS (SCADA, Modbus) | 🟢 Easy | [Read Writeup](./Brr-TryHackMe-Writeup.md) |
 
 > More writeups coming soon... 🔜
 
