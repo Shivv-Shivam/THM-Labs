@@ -1,9 +1,13 @@
-# 🥶 TryHackMe — Brr (Writeup)
+# 🥶 Brr Writeup TryHackMe
 
 **Room:** https://tryhackme.com/room/brr (Premium)
+
 **Difficulty:** 🟢 Easy
+
 **Category:** OT / ICS
+
 **Tags:** `ot` `ics` `scada` `modbus` `scadabr` `novnc`
+
 
 ## 📖 Room Story
 
