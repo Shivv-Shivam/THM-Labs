@@ -15,7 +15,8 @@ I'm a cybersecurity enthusiast focused on **penetration testing** 🎯 — activ
 
 | Room | Category | Difficulty | Writeup |
 |------|----------|------------|---------|
-| 🥶 Brr | OT / ICS (SCADA, Modbus) | 🟢 Easy | [Read Writeup](./Brr-TryHackMe-Writeup.md) |
+|  Brr | OT / ICS (SCADA, Modbus) | 🟢 Easy | [Read Writeup](./Brr-TryHackMe-Writeup.md) |
+|  Management Wants a Word | Forensics | 🔴 Hard | [Read Writeup](./Management-Wants-a-Word-TryHackMe-Writeup.md) 
 
 > More writeups coming soon... 🔜
 
@@ -29,6 +30,7 @@ I'm a cybersecurity enthusiast focused on **penetration testing** 🎯 — activ
 - 🐧 Linux Privilege Escalation
 - 📡 Protocol Exploitation (Modbus, etc.)
 - 🕵️ SOC & Log Analysis
+- 🔍 Forensics
 
 ---
 
